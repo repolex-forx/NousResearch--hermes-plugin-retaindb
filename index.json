@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-plugin-retaindb",
+  "versions": [
+    {
+      "commit": "5dde522dec252c12ad05861de8095d5a0cf7955f",
+      "tag": "main",
+      "parsed_at": "2026-09-29T19:03:04.629009+00:00"
+    }
+  ]
+}
