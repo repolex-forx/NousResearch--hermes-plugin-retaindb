@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-retaindb",
+  "versions": [
+    {
+      "commit": "5dde522dec252c12ad05861de8095d5a0cf7955f",
+      "parsed_at": "2026-09-29T08:52:57.724888+00:00",
+      "tag": "main",
+      "filetree": "filetree/5dde522dec252c12ad05861de8095d5a0cf7955f.nq.gz",
+      "blobs": [
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/c14eee77bc44ecf11aeaef50cf8231e8cd7430ed.nq.gz",
+        "blob/00f2d38d8063d0c6b219c0081e51888063b0c55e.nq.gz",
+        "blob/5ef080651823e8007d9c63ee3acd39258192286d.nq.gz",
+        "blob/0a2be38044a4f4abb5f3914c81c5cbec26600ecf.nq.gz",
+        "blob/b5b236107c54c15ae938fa4238b70b2f301dbe1f.nq.gz",
+        "blob/6cdba677950a9b900b76d0e7b0e40363784a43f4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
