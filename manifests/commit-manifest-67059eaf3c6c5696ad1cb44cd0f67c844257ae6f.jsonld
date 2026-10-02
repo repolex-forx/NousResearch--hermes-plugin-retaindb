@@ -1,0 +1,45 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-retaindb/commit/67059eaf3c6c5696ad1cb44cd0f67c844257ae6f",
+  "@type": "git:Commit",
+  "git:hexsha": "67059eaf3c6c5696ad1cb44cd0f67c844257ae6f",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-retaindb"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/67059eaf3c6c5696ad1cb44cd0f67c844257ae6f.nq.gz",
+      "repolex:graphFileSize": 1530
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 1386
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 425
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 435
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "issue",
+      "repolex:graphFilePath": "issue/issue.nq.gz",
+      "repolex:graphFileSize": 1031
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-02T10:15:38.824496+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "main"
+}
