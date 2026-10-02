@@ -59,6 +59,18 @@
       ],
       "ast": [
         "aggregate/ast/67059eaf3c6c5696ad1cb44cd0f67c844257ae6f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/67059eaf3c6c5696ad1cb44cd0f67c844257ae6f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.31",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],

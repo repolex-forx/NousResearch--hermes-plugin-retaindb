@@ -15,7 +15,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-retaindb/commit/67059eaf3c6c5696ad1cb44cd0f67c844257ae6f",
       "git:hexsha": "67059eaf3c6c5696ad1cb44cd0f67c844257ae6f",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     },
     {
