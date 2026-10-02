@@ -71,7 +71,9 @@
           "githubUrl": "https://github.com/psf/requests",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/67059eaf3c6c5696ad1cb44cd0f67c844257ae6f/chunk-001.nq.gz",
+      "dep": "dep/67059eaf3c6c5696ad1cb44cd0f67c844257ae6f.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
