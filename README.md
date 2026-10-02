@@ -36,33 +36,50 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
-│   │   └── 5dde522dec252c12ad05861de8095d5a0cf7955f
+│   │   ├── 5dde522dec252c12ad05861de8095d5a0cf7955f
+│   │   │   └── chunk-001.nq.gz
+│   │   └── 67059eaf3c6c5696ad1cb44cd0f67c844257ae6f
 │   │       └── chunk-001.nq.gz
 │   ├── lsp
-│   │   └── 5dde522dec252c12ad05861de8095d5a0cf7955f.nq.gz
+│   │   ├── 5dde522dec252c12ad05861de8095d5a0cf7955f.nq.gz
+│   │   └── 67059eaf3c6c5696ad1cb44cd0f67c844257ae6f.nq.gz
 │   └── repolex
-│       └── 5dde522dec252c12ad05861de8095d5a0cf7955f
+│       ├── 5dde522dec252c12ad05861de8095d5a0cf7955f
+│       │   └── chunk-001.nq.gz
+│       └── 67059eaf3c6c5696ad1cb44cd0f67c844257ae6f
 │           └── chunk-001.nq.gz
 ├── blob
 │   ├── 00f2d38d8063d0c6b219c0081e51888063b0c55e.nq.gz
+│   ├── 073a5e78c9221bc2a4d8f49ac6dba2ed461aa26d.nq.gz
 │   ├── 0a2be38044a4f4abb5f3914c81c5cbec26600ecf.nq.gz
+│   ├── 43e1f22ff8ef80885e3ff38886d7cc4ac1f4ee80.nq.gz
 │   ├── 5ef080651823e8007d9c63ee3acd39258192286d.nq.gz
 │   ├── 6cdba677950a9b900b76d0e7b0e40363784a43f4.nq.gz
+│   ├── 6e5ed0740ef004ace2829813a7e22b9f55d4c419.nq.gz
 │   ├── 75410e73319c72cd3e991a501c5455eb78f38375.nq.gz
+│   ├── 7bf044a5e09d902e7d908c25147a972911547b59.nq.gz
+│   ├── a65032a72653d1f9d3c2c08c6b83347c8c1ceda0.nq.gz
+│   ├── aca802326369ddd32b62d6dff4f83908e9e1834b.nq.gz
+│   ├── b3be26b748646554c01faa99967da956042b7753.nq.gz
 │   ├── b5b236107c54c15ae938fa4238b70b2f301dbe1f.nq.gz
+│   ├── b93f7fbd0193b7f88495a58a9663bbf964896842.nq.gz
 │   └── c14eee77bc44ecf11aeaef50cf8231e8cd7430ed.nq.gz
 ├── branch
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
 ├── dep
-│   └── 5dde522dec252c12ad05861de8095d5a0cf7955f.nq.gz
+│   ├── 5dde522dec252c12ad05861de8095d5a0cf7955f.nq.gz
+│   └── 67059eaf3c6c5696ad1cb44cd0f67c844257ae6f.nq.gz
 ├── filetree
-│   └── 5dde522dec252c12ad05861de8095d5a0cf7955f.nq.gz
+│   ├── 5dde522dec252c12ad05861de8095d5a0cf7955f.nq.gz
+│   └── 67059eaf3c6c5696ad1cb44cd0f67c844257ae6f.nq.gz
+├── issue
+│   └── issue.nq.gz
 └── tag
     └── tag.nq.gz
 
-13 directories, 15 files
+16 directories, 29 files
 ```
 
 | Directory | What it contains |
@@ -83,4 +100,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [NousResearch/hermes-plugin-retaindb](https://github.com/NousResearch/hermes-plugin-retaindb)
 
 ---
-*Parsed on 2026-09-29 by [repolex](https://repolex.ai)*
+*Parsed on 2026-10-02 by [repolex](https://repolex.ai)*

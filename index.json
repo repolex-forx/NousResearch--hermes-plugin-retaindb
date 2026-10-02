@@ -3,6 +3,11 @@
   "repo": "hermes-plugin-retaindb",
   "versions": [
     {
+      "commit": "67059eaf3c6c5696ad1cb44cd0f67c844257ae6f",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:18:59.157350+00:00"
+    },
+    {
       "commit": "5dde522dec252c12ad05861de8095d5a0cf7955f",
       "tag": "main",
       "parsed_at": "2026-09-29T19:03:04.629009+00:00"
